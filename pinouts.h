@@ -1,4 +1,4 @@
-#include "src/tmc/BURT_TMC.h"
+#include "src/TMC-Firmware/BURT_TMC.h"
 
 StepperMotorPins swivelPins = {
 	enable: 8,
