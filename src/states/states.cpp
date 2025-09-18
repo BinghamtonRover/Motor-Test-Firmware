@@ -54,3 +54,8 @@ int states::LSwitchState()
         return 0;
     }
 }
+
+int potVal()
+{
+    return analogRead(pot);
+}
