@@ -20,4 +20,6 @@ class states {
         int RSwitchState();
 
         int LSwitchState();
+
+        int potVal();
 }
